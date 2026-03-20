@@ -52,7 +52,7 @@ IQVIA MIDAS-style pharmaceutical sales data:
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/mderya/pharma-drug-forecasting
+git clone https://github.com/mattderya/pharma-drug-forecasting
 cd pharma-drug-forecasting
 pip install -r requirements.txt
 streamlit run app.py
@@ -61,6 +61,6 @@ streamlit run app.py
 ## 👤 Author
 
 **Matt Derya** | Data Scientist | 15+ years pharmaceutical domain expertise
-
-- 🔗 [LinkedIn](https://linkedin.com/in/matt-derya)
+- 🌐 [Website](https://mattderya.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/mttdryai)
 - 📓 [Kaggle Notebook](https://www.kaggle.com/code/mderya/pharma-drug-demand-forecasting-with-lstm-iqvia)
