@@ -60,7 +60,7 @@ streamlit run app.py
 
 ## 👤 Author
 
-**Matt Derya** | Data Scientist | 20+ years pharmaceutical domain expertise
+**Matt Derya** | Data Scientist | 15+ years pharmaceutical domain expertise
 
 - 🔗 [LinkedIn](https://linkedin.com/in/matt-derya)
 - 📓 [Kaggle Notebook](https://www.kaggle.com/code/mderya/pharma-drug-demand-forecasting-with-lstm-iqvia)
