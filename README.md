@@ -15,7 +15,7 @@ End-to-end pharmaceutical drug demand forecasting pipeline built with LSTM deep 
 
 ## 🚀 Live Demo
 
-👉 [Try the Streamlit App](https://your-app-url.streamlit.app)
+👉 [Try the Streamlit App]([https://your-app-url.streamlit.app](https://pharma-drug-forecasting.streamlit.app))
 
 ## 📊 Dataset
 
